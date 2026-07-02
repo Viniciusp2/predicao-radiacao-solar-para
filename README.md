@@ -58,10 +58,7 @@ Municípios do interior, com menor nebulosidade, apresentaram maior e mais está
 ## 📁 Estrutura do repositório
 
 ```
-├── data/               # dados brutos e tratados
-├── notebooks/          # notebooks de EDA, clusterização e modelagem
-├── src/                # scripts de tratamento, modelagem e validação
-├── results/            # gráficos, tabelas e métricas geradas
+├── notbook.ipynb       # notebooks de EDA, clusterização e modelagem
 ├── TCC.pdf             # documento completo do trabalho
 └── README.md
 ```
